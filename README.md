@@ -21,9 +21,17 @@ Nendo Plugin for VampNet: Music Generation via Masked Acoustic Token Modeling
  
 ## Requirements
 
-This plugin requires the manual installation of `vampnet` via its git repository:
+Due to madmom versions < 0.17 errors with python 3.10, we require the latest version of the package from git, where this is fixed. See also this related issue.
+
+Run:
+
+`pip install git+https://github.com/CPJKU/madmom.git@0551aa8`
+
+This plugin also requires the manual installation of `vampnet` via its git repository:
 
 `pip install git+https://github.com/hugofloresgarcia/vampnet.git@0c0c6bc`
+
+For further information, please refer to the original [vampnet repository](https://github.com/hugofloresgarcia/vampnet).
 
 ## Installation
 
