@@ -8,7 +8,7 @@
 
 
 ![Documentation](https://img.shields.io/website/https/nendo.ai)
-[![Twitter](https://img.shields.io/twitter/url/https/twitter.com/okio_ai.svg?style=social&label=Follow%20%40okio_ai)](https://twitter.com/okio_ai) [![](https://dcbadge.vercel.app/api/server/XpkUsjwXTp?compact=true&style=flat)](https://discord.gg/XpkUsjwXTp)
+[![Twitter](https://img.shields.io/twitter/url/https/twitter.com/okio_ai.svg?style=social&label=Follow%20%40okio_ai)](https://twitter.com/okio_ai) [![](https://dcbadge.vercel.app/api/server/gaZMZKzScj?compact=true&style=flat)](https://discord.gg/gaZMZKzScj)
 
 Nendo Plugin for VampNet: Music Generation via Masked Acoustic Token Modeling 
 (by [Hugo Flores Garcia](https://github.com/hugofloresgarcia/vampnet)).
